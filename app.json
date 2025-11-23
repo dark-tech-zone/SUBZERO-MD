@@ -7,8 +7,8 @@
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
-    "SESSION_ID": {
-      "description": "Put your Subzero session-id here.",
+    "SESSION_ID": "Ice~RDmlZ4" {
+      "description": "BOT FOR HELPING AASHISH",
       "required": true,
       "value": ""
     }
