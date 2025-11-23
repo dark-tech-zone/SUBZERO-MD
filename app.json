@@ -7,7 +7,7 @@
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
-    "SESSION_ID": "Ice~RDmlZ4" {
+    "SESSION_ID": {
       "description": "BOT FOR HELPING AASHISH",
       "required": true,
       "value": ""
